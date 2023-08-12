@@ -1,0 +1,7 @@
+This is a simple Quiz game created using python.
+
+There are series of multiple choice questions.
+
+Select one option.
+
+Score will be displayed at the end.
